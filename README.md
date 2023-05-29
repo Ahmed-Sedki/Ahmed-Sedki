@@ -3,7 +3,15 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ahmed-sedki&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-sedki" />
 </p>
-<!-- <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-sedki" alt="ahmed-sedki" /></a></p> --> - 🌱 I’m currently learning **Data Structure** - ⚡ Fun fact **Aside from programming languages, I can speak Arabic, English, and Turkish** <h3 align="left">Connect with me:</h3>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="200"/>
+</div>
+<!-- <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-sedki" alt="ahmed-sedki" /></a></p> -->
+<pre>
+- 🌱 I’m currently learning <b>Data Structure</b> 
+- ⚡ Fun fact <b>Aside from programming languages, I can speak Arabic, English, and Turkish</b>
+</pre>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://instagram.com/ahmed.sedkii" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed.sedkii" height="30" width="40" />
