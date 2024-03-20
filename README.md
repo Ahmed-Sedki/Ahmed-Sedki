@@ -8,7 +8,7 @@
 </div>
 <!-- <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-sedki" alt="ahmed-sedki" /></a></p> -->
 <pre>
-- 🌱 I’m currently learning <b>Data Structure</b> 
+- 🌱 I’m currently learning <b>React Native</b> 
 - ⚡ Fun fact <b>Aside from programming languages, I can speak Arabic, English, and Turkish</b>
 </pre>
 <h3 align="left">Connect with me:</h3>
