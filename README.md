@@ -81,11 +81,6 @@
   </tr>
 </table>
 
-
-
-### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ahmed-Sedki)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-sedki&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <p>[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)</p> -->
